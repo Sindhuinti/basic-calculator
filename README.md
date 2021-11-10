@@ -5,6 +5,6 @@ This is the web calculator with basic operations like
 3. Multiplication
 4. Division
 
-[View demo]{}
+[View demo]{https://sindhuinti.github.io/basic-calculator/}
 
 ![image]{demo.png}
