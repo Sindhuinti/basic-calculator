@@ -1,10 +1,5 @@
 # Basic-Calculator
-This is the web calculator with basic operations like
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
+This is the web calculator with basic operations like:
+addition,subtaction,multiplication,division
 
-[View demo]{https://sindhuinti.github.io/basic-calculator/}
-
-![image]{demo.png}
+[view demo]{https://sindhuinti.github.io/basic-calculator/}
