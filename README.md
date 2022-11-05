@@ -7,3 +7,4 @@ This is the web calculator with basic operations like
 
 [View demo](https://sindhuinti.github.io/basic-calculator/)
 
+## Give a ⭐
